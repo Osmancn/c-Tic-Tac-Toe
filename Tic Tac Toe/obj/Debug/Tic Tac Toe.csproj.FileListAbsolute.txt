@@ -1,0 +1,12 @@
+C:\Users\osman\source\repos\Tic Tac Toe\Tic Tac Toe\bin\Debug\Tic Tac Toe.exe.config
+C:\Users\osman\source\repos\Tic Tac Toe\Tic Tac Toe\bin\Debug\Tic Tac Toe.exe
+C:\Users\osman\source\repos\Tic Tac Toe\Tic Tac Toe\bin\Debug\Tic Tac Toe.pdb
+C:\Users\osman\source\repos\Tic Tac Toe\Tic Tac Toe\obj\Debug\Tic Tac Toe.csprojResolveAssemblyReference.cache
+C:\Users\osman\source\repos\Tic Tac Toe\Tic Tac Toe\obj\Debug\Tic_Tac_Toe.frmOyun.resources
+C:\Users\osman\source\repos\Tic Tac Toe\Tic Tac Toe\obj\Debug\Tic_Tac_Toe.Properties.Resources.resources
+C:\Users\osman\source\repos\Tic Tac Toe\Tic Tac Toe\obj\Debug\Tic Tac Toe.csproj.GenerateResource.Cache
+C:\Users\osman\source\repos\Tic Tac Toe\Tic Tac Toe\obj\Debug\Tic Tac Toe.csproj.CoreCompileInputs.cache
+C:\Users\osman\source\repos\Tic Tac Toe\Tic Tac Toe\obj\Debug\Tic Tac Toe.exe
+C:\Users\osman\source\repos\Tic Tac Toe\Tic Tac Toe\obj\Debug\Tic Tac Toe.pdb
+C:\Users\osman\source\repos\Tic Tac Toe\Tic Tac Toe\obj\Debug\Tic_Tac_Toe.frmAnaMenu.resources
+C:\Users\osman\source\repos\Tic Tac Toe\Tic Tac Toe\obj\Debug\Tic_Tac_Toe.FrmYpy.resources
